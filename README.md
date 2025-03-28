@@ -4,10 +4,11 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Ana Paula Rodriguez.
+- Vivo en merlo
+- Tengo 20 años
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Conozco github porque lo utilizamos en un curso que realice 
+- Me gusta leer, especialmente los libros de fantasia
